@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rail/static/css/main.349f440d.chunk.css",
+    "main.js": "/rail/static/js/main.34cbb287.chunk.js",
+    "main.js.map": "/rail/static/js/main.34cbb287.chunk.js.map",
+    "runtime-main.js": "/rail/static/js/runtime-main.3bab2236.js",
+    "runtime-main.js.map": "/rail/static/js/runtime-main.3bab2236.js.map",
+    "static/css/2.a8a21793.chunk.css": "/rail/static/css/2.a8a21793.chunk.css",
+    "static/js/2.0f02fabf.chunk.js": "/rail/static/js/2.0f02fabf.chunk.js",
+    "static/js/2.0f02fabf.chunk.js.map": "/rail/static/js/2.0f02fabf.chunk.js.map",
+    "static/js/3.a43fb44c.chunk.js": "/rail/static/js/3.a43fb44c.chunk.js",
+    "static/js/3.a43fb44c.chunk.js.map": "/rail/static/js/3.a43fb44c.chunk.js.map",
+    "index.html": "/rail/index.html",
+    "static/css/2.a8a21793.chunk.css.map": "/rail/static/css/2.a8a21793.chunk.css.map",
+    "static/css/main.349f440d.chunk.css.map": "/rail/static/css/main.349f440d.chunk.css.map",
+    "static/js/2.0f02fabf.chunk.js.LICENSE.txt": "/rail/static/js/2.0f02fabf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bab2236.js",
+    "static/css/2.a8a21793.chunk.css",
+    "static/js/2.0f02fabf.chunk.js",
+    "static/css/main.349f440d.chunk.css",
+    "static/js/main.34cbb287.chunk.js"
+  ]
+}
